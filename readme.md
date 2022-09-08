@@ -1,4 +1,4 @@
-# Visual-Designer-Portfolio
+# Dance Landing Page
 ##### This is dance landing page. Note that this project is responsive in laptop screen and mobile screen as well.
 
 
